@@ -5,32 +5,20 @@
 
 ## Imagenes
 
-### Inicio
+### Registro
 ----
 
-![Inicio](https://user-images.githubusercontent.com/54915231/85790868-95d20300-b6f6-11ea-82b1-a07b23d351f5.png)
+![127 0 0 1_8000_register](https://user-images.githubusercontent.com/54915231/91485736-ed185f00-e870-11ea-9f4f-8e9bb98f5b0b.png)
 
-### Quien soy
+
+### Aviso de Enviar correo Electronico
 ----
 
-![Quien_soy](https://user-images.githubusercontent.com/54915231/85790882-979bc680-b6f6-11ea-8a72-bb25603bc0a6.png)
+![127 0 0 1_8000_login (1)](https://user-images.githubusercontent.com/54915231/91485738-eee22280-e870-11ea-8d31-bca2469d38f2.png)
 
 ### Portafolio
 ----
 
-![portafolio](https://user-images.githubusercontent.com/54915231/85790872-966a9980-b6f6-11ea-867d-df3018041957.png)
 
-### Crear proyecto
-----
 
-![portafolio_crear](https://user-images.githubusercontent.com/54915231/85790875-97033000-b6f6-11ea-9f15-94cedc8ff540.png)
 
-### Editar
------
-
-![editar](https://user-images.githubusercontent.com/54915231/85790879-97033000-b6f6-11ea-9559-b9c095300223.png)
-
-### Contacto
-----
-
-![contacto](https://user-images.githubusercontent.com/54915231/85790874-966a9980-b6f6-11ea-9128-1a089f2c754f.png)
